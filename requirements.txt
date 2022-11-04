@@ -109,7 +109,7 @@ testpath==0.4.4
 tornado==6.0.4
 traitlets==4.3.3
 twilio==6.29.1
-Twisted==19.2.1
+Twisted==22.10.0
 typing==3.7.4
 typing-extensions==3.7.4
 tzlocal==1.5.1
